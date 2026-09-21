@@ -24,6 +24,15 @@
   ],
   "entries": [
     {
+      "date": "2026-09-21",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "How V7 gives AI agents institutional memory",
+      "summary": "Publisher excerpt: Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "url": "https://openai.com/index/v7",
+      "automated": true
+    },
+    {
       "date": "2026-09-18",
       "type": "Research",
       "publisher": "arXiv",
