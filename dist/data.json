@@ -24,6 +24,15 @@
   ],
   "entries": [
     {
+      "date": "2026-09-28",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "summary": "Publisher excerpt: OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in…",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "automated": true
+    },
+    {
       "date": "2026-09-25",
       "type": "Research",
       "publisher": "arXiv",
