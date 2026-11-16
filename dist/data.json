@@ -1,28 +1,910 @@
 {
-  "lastChecked": "2026-11-09",
+  "lastChecked": "2026-11-16",
   "feeds": [
     {
       "name": "OpenAI",
       "status": "ok",
-      "checked": "2026-11-09"
+      "checked": "2026-11-16"
     },
     {
       "name": "Google AI",
       "status": "ok",
-      "checked": "2026-11-09"
+      "checked": "2026-11-16"
     },
     {
       "name": "Google DeepMind",
       "status": "ok",
-      "checked": "2026-11-09"
+      "checked": "2026-11-16"
     },
     {
       "name": "arXiv",
       "status": "ok",
-      "checked": "2026-11-09"
+      "checked": "2026-11-16"
     }
   ],
   "entries": [
+    {
+      "date": "2026-11-16",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "summary": "Publisher excerpt: The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people…",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "automated": true
+    },
+    {
+      "date": "2026-11-16",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "summary": "Publisher excerpt: New tools, practical guidance, and partnerships will help prevent, detect and…",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "automated": true
+    },
+    {
+      "date": "2026-11-16",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "summary": "Publisher excerpt: Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported…",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "automated": true
+    },
+    {
+      "date": "2026-11-16",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "Our first phase of embedded assessments",
+      "summary": "Publisher excerpt: OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards,…",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "automated": true
+    },
+    {
+      "date": "2026-11-16",
+      "type": "News",
+      "publisher": "Google AI",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "summary": "Publisher excerpt: Plan holiday road trips, get route tips, find local appointments, and search your…",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
+      "automated": true
+    },
+    {
+      "date": "2026-11-16",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "summary": "Publisher excerpt: Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare…",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "automated": true
+    },
+    {
+      "date": "2026-11-16",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "summary": "Publisher excerpt: LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its…",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "automated": true
+    },
+    {
+      "date": "2026-11-16",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "Broadening access to AI for scientists",
+      "summary": "Publisher excerpt: We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier…",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "automated": true
+    },
+    {
+      "date": "2026-11-16",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "summary": "See the original publication for details.",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "automated": true
+    },
+    {
+      "date": "2026-11-15",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "Our new blog for science",
+      "summary": "Publisher excerpt: The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific…",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "automated": true
+    },
+    {
+      "date": "2026-11-15",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "summary": "Publisher excerpt: Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra…",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Why Finite Intelligence Works in an Infinite World: A Mathematical Theory",
+      "summary": "Publisher excerpt: An information system often has to learn before it knows what it will…",
+      "url": "https://arxiv.org/abs/2611.18538",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Where Tree Ensembles Decide: Structural Local Explanation with Decision Predicate Graphs",
+      "summary": "Publisher excerpt: Tree ensembles are among the most accurate models for tabular data, yet the…",
+      "url": "https://arxiv.org/abs/2611.18382",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "When to Trust Simulated Patient Responses:Support-Gated World Models for Vasopressor Decision Support",
+      "summary": "Publisher excerpt: Clinical world models expose language-model agents to predicted patient responses, but simulations…",
+      "url": "https://arxiv.org/abs/2611.18458",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
+      "summary": "Publisher excerpt: Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural…",
+      "url": "https://arxiv.org/abs/2611.18553",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "WeatherDreamer: Learning a World Model from Multimodal Earth Observations",
+      "summary": "Publisher excerpt: Machine learning weather models now rival operational global forecasts but still start from analyses produced…",
+      "url": "https://arxiv.org/abs/2611.18393",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "WaferTetris: Efficient Freeform Mapping on Wafer-Scale Accelerators",
+      "summary": "Publisher excerpt: Wafer-scale accelerators offer massive compute capacity through hundreds of thousands of processing elements (PEs) interconnected across a…",
+      "url": "https://arxiv.org/abs/2611.18527",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment",
+      "summary": "Publisher excerpt: Vision-language-action (VLA) models adapt web-pretrained vision-language models to output robot actions, so that web…",
+      "url": "https://arxiv.org/abs/2611.18372",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "VelServe: Taming Decode Jitters in LLM Inference with Tail-Calibrated Scheduling",
+      "summary": "Publisher excerpt: Interactive LLM services must meet latency service-level objectives (SLOs) for the time to first…",
+      "url": "https://arxiv.org/abs/2611.18392",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Understanding Contextual Bias in Agricultural CNNs Through Hidden-Neuron Concept Induction",
+      "summary": "Publisher excerpt: Convolutional Neural Networks (CNNs) can classify images using background-dominated patches that contain little or…",
+      "url": "https://arxiv.org/abs/2611.18530",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Typing Matters: Muscle, Language and Typing Behaviour in Live Keystroke Decoding from sEMG",
+      "summary": "Publisher excerpt: Surface electromyography (sEMG) from the wrists can recover typed text without…",
+      "url": "https://arxiv.org/abs/2611.18464",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+      "summary": "Publisher excerpt: Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control. However,…",
+      "url": "https://arxiv.org/abs/2611.18562",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "TradeGauntlet: Evaluating Compliance Controls for Autonomous Trading Agents",
+      "summary": "Publisher excerpt: Autonomous trading agents need controls that prevent problematic orders without making legitimate tasks impractical. We study…",
+      "url": "https://arxiv.org/abs/2611.18493",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Towards Explainable Sleep Stage Classification using Single-Channel Electroencephalogram",
+      "summary": "Publisher excerpt: Automated sleep staging has achieved strong bench- mark accuracy; however, clinical adoption remains limited due to…",
+      "url": "https://arxiv.org/abs/2611.18434",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Toward On-Device Markerless 6DoF Tracking of a Physical Manipulative on a Mixed-Reality Headset: A Preliminary Study",
+      "summary": "Publisher excerpt: AR-Classroom uses physical models and virtual overlays to…",
+      "url": "https://arxiv.org/abs/2611.18438",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "The State Is Not the Bottleneck: A Paged-State Gated-DeltaNet Tile on a Tri-Mode Multicast Mesh, Bit-Exact from RTL to Silicon",
+      "summary": "Publisher excerpt: Linear-attention language models replace…",
+      "url": "https://arxiv.org/abs/2611.18422",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Structure makes quantum circuits trainable",
+      "summary": "Publisher excerpt: The scalability of variational quantum algorithms is limited by barren plateaus, where gradients vanish exponentially in system size. This…",
+      "url": "https://arxiv.org/abs/2611.18378",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval",
+      "summary": "Publisher excerpt: Screen history can serve as searchable visual memory for people and agents, but unlike an offline…",
+      "url": "https://arxiv.org/abs/2611.18516",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Smart Home Agents Make Capable but Unpredictable Grid Operators",
+      "summary": "Publisher excerpt: AI-enabled smart homes are becoming more common across the grid edge. However, there has not…",
+      "url": "https://arxiv.org/abs/2611.18395",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary": "Publisher excerpt: Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its…",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Score-based neural ordinary differential equations for reaction-diffusions",
+      "summary": "Publisher excerpt: A diffusion equation can be rewritten as a transport equation driven by the score function of the…",
+      "url": "https://arxiv.org/abs/2611.18467",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Sample-efficient prediction of high-entropy alloy strength through outcome-aware robust sequential learning",
+      "summary": "Publisher excerpt: Accurate prediction of high-entropy alloy (HEA) strength can guide composition and processing decisions;…",
+      "url": "https://arxiv.org/abs/2611.18462",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Restoring Diversity in Distilled Image and Video Generators by Probing Activations",
+      "summary": "Publisher excerpt: Distilling diffusion models into few-step student models substantially reduces sampling latency, but induces…",
+      "url": "https://arxiv.org/abs/2611.18550",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion",
+      "summary": "Publisher excerpt: Monitoring maritime activities is important for safety and security, particularly for…",
+      "url": "https://arxiv.org/abs/2611.18563",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "PACT: A Decoder-Confidence-Guided Two-Round Receiver for Joint Channel and Phase-Noise Estimation in Sub-THz OFDM",
+      "summary": "Publisher excerpt: Frequency-selective fading and oscillator phase noise (PN) jointly impair coded…",
+      "url": "https://arxiv.org/abs/2611.18450",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "On numerical issues of divergences between nearly equal distributions",
+      "summary": "Publisher excerpt: Barron et al. (2026) recently identified numerical issues in the softmax and soft cross-entropy loss.…",
+      "url": "https://arxiv.org/abs/2611.18511",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL",
+      "summary": "Publisher excerpt: Agentic reinforcement learning (RL) increasingly relies on a harness, the scaffold around the…",
+      "url": "https://arxiv.org/abs/2611.18533",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "MeReader: An Offline, Privacy-Preserving, Progress-Aware AI Assistant for Narrative eBook Reading",
+      "summary": "Publisher excerpt: This paper introduces MeReader, a privacy-preserving, offline and progress-aware AI assistant designed to…",
+      "url": "https://arxiv.org/abs/2611.18513",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "MMFlash: Faster Speculative Decoding for Vision-Language Models",
+      "summary": "Publisher excerpt: Speculative decoding accelerates generation by letting a lightweight drafter propose tokens for parallel verification by a target…",
+      "url": "https://arxiv.org/abs/2611.18482",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "LitArc-Bench: Disentangling Text-Specific Reader-Response Dynamics from Position and Lexical Affect",
+      "summary": "Publisher excerpt: When model predictions track an unfolding human affect trajectory, alignment may reflect narrative position,…",
+      "url": "https://arxiv.org/abs/2611.18412",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Lipschitz-Constrained Discriminators in Generative Modeling: Asymptotic Behavior and Support Mismatch",
+      "summary": "Publisher excerpt: We study the asymptotic behavior of optimal discriminators associated to $L-$Lipschitz regularized KL-divergences of…",
+      "url": "https://arxiv.org/abs/2611.18394",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "LECAT: Measuring LLM Category Learning from Pretraining Data",
+      "summary": "Publisher excerpt: Humans know that airplanes are fast, that this extends to red airplanes, but that it does…",
+      "url": "https://arxiv.org/abs/2611.18419",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "JVT: Just Video Transformer makes pixel-space video diffusion simple",
+      "summary": "Publisher excerpt: Direct diffusion modeling of high-dimensional raw video data is challenging, and existing pixel-space methods often…",
+      "url": "https://arxiv.org/abs/2611.18549",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Models",
+      "publisher": "OpenAI",
+      "title": "Introducing ChatGPT Wallet",
+      "summary": "Publisher excerpt: Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and…",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Interactive Program Induction with Language Model Priors",
+      "summary": "Publisher excerpt: Program induction refers to the process in which a learner aims to recover a program from a…",
+      "url": "https://arxiv.org/abs/2611.18485",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Imitation Bootstrapped Multi-Agent Reinforcement Learning",
+      "summary": "Publisher excerpt: Demonstrations are an effective way to accelerate single-agent reinforcement learning (RL), but extending this idea to multi-agent reinforcement learning…",
+      "url": "https://arxiv.org/abs/2611.18543",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Graph diffusion transformer for interpretable generation and inverse design of disordered atomic structures",
+      "summary": "Publisher excerpt: Atomic disorder offers a potent degree of freedom to tailor material…",
+      "url": "https://arxiv.org/abs/2611.18420",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
+      "summary": "Publisher excerpt: We introduce Gamer, a generalist agent framework built for long-horizon tasks in complex…",
+      "url": "https://arxiv.org/abs/2611.18397",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Fuse-PINN: Combining Finite Element Methods and Physics-Informed Neural Networks to enable massively parallel simulations of non-linear PDEs",
+      "summary": "Publisher excerpt: Research in the domain of Physics-Informed Neural…",
+      "url": "https://arxiv.org/abs/2611.18409",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration",
+      "summary": "Publisher excerpt: AI-enabled remote patient monitoring is evolving beyond passive data collection toward…",
+      "url": "https://arxiv.org/abs/2611.18484",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices",
+      "summary": "Publisher excerpt: Recent advances in speech neuroprostheses have enabled new communication avenues for people who have lost…",
+      "url": "https://arxiv.org/abs/2611.18561",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "EventSpikeSeg: Memory-Aware Mixed-Signal Architecture for Event-Camera Spiking Segmentation",
+      "summary": "Publisher excerpt: Event-camera segmentation requires persistent neural state despite sparse input events, making memory organization a central constraint…",
+      "url": "https://arxiv.org/abs/2611.18524",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Evaluating Feedback-Driven Black-Box Processes via Stochastic Modeling and Simulation",
+      "summary": "Publisher excerpt: We study feedback-driven black-box processes across software engineering and machine learning. These processes are inherently…",
+      "url": "https://arxiv.org/abs/2611.18477",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Elliptic Sampling: Optimal Interpolant Schedules for Gaussians and Beyond",
+      "summary": "Publisher excerpt: Generative modeling based on stochastic interpolants requires specifying two key choices: an interpolant schedule bridging…",
+      "url": "https://arxiv.org/abs/2611.18542",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Do Verifier Judgments Survive Abstraction? Measuring Verification Transport for LLM Agent Evaluation",
+      "summary": "Publisher excerpt: LLM-based verifiers are increasingly used to evaluate agent executions, but their reliability…",
+      "url": "https://arxiv.org/abs/2611.18471",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Do Underwater Image Quality Metrics Agree with Human Perception? A Benchmark with Human Choices, Simple Edits and Generative Drift",
+      "summary": "Publisher excerpt: Underwater image enhancement is challenging…",
+      "url": "https://arxiv.org/abs/2611.18429",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Deep Neural Networks Training Efficiency: Does Grokking Modify its Dynamics?",
+      "summary": "Publisher excerpt: We study whether grokking, the delayed emergence of out-of-distribution generalization after apparent overfitting, alters…",
+      "url": "https://arxiv.org/abs/2611.18396",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Contrastive latent representation learning with denoising score matching",
+      "summary": "Publisher excerpt: Contrastive representation learning methods operate by pulling different views of the same data sample together while…",
+      "url": "https://arxiv.org/abs/2611.18469",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "CoPre-MoE: Consolidating and Preserving MoE for Multimodal Continual Instruction Tuning",
+      "summary": "Publisher excerpt: Multimodal continual instruction tuning requires multimodal large language models to sequentially acquire new capabilities…",
+      "url": "https://arxiv.org/abs/2611.18417",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination",
+      "summary": "Publisher excerpt: Mechanistic Interpretability (MI) has made significant progress in explaining…",
+      "url": "https://arxiv.org/abs/2611.18514",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Callo: Serving Cache-Miss Requests with Speculative Decoding on Invalidated KV under Prefill-Decode Disaggregation",
+      "summary": "Publisher excerpt: Agent sessions may involve frequent context edits, which effectively invalidate cached…",
+      "url": "https://arxiv.org/abs/2611.18459",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Bregman geometry in regular exponential families: dual representations and relative smoothness",
+      "summary": "Publisher excerpt: Regular exponential-family distributions are ubiquitous in statistics due to their appealing and convenient…",
+      "url": "https://arxiv.org/abs/2611.18480",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Box-conditional Hypothesis Testing for Out-of-Distribution Object Detection",
+      "summary": "Publisher excerpt: Detecting out-of-distribution (OOD) objects is essential for ensuring the reliability and safety of object detectors in real-world…",
+      "url": "https://arxiv.org/abs/2611.18519",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles",
+      "summary": "Publisher excerpt: Reliable use of large language models (LLMs) requires uncertainty estimates that separate ambiguity intrinsic to…",
+      "url": "https://arxiv.org/abs/2611.18453",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Between Obligations and Evidence: A Participatory Study of Translating the EU AI Act into Technical Requirements",
+      "summary": "Publisher excerpt: The EU AI Act imposes technical and organizational…",
+      "url": "https://arxiv.org/abs/2611.18439",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Representations",
+      "summary": "Publisher excerpt: Learning semantically meaningful human movement representations from 3D pose sequences is essential for…",
+      "url": "https://arxiv.org/abs/2611.18559",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Asymptotic Margins and Feature Confinement in Conic Classification Heads under Softmax Cross-Entropy",
+      "summary": "Publisher excerpt: Classification heads built on conic functions give each class a bounded region…",
+      "url": "https://arxiv.org/abs/2611.18507",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Alignment by Socialization: Learning Tradeoffs Under Selection",
+      "summary": "Publisher excerpt: Artificial intelligence (AI) agents are expected to complete tasks while following rules of conduct, but these objectives…",
+      "url": "https://arxiv.org/abs/2611.18531",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Agentic induction of common data elements and information extraction from sarcoma case report abstracts",
+      "summary": "Publisher excerpt: Common data elements (CDEs) support clinical data comparability but are…",
+      "url": "https://arxiv.org/abs/2611.18506",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "Agentic AI for Discovering Fault-Tolerant Quantum Circuits",
+      "summary": "Publisher excerpt: Scaling quantum computing toward practical quantum advantage is currently limited by the efficiency of circuits that operate…",
+      "url": "https://arxiv.org/abs/2611.18504",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "ARCHER: From Rationale Imitation to Executable Reasoning in Small Language Models",
+      "summary": "Publisher excerpt: Small language models are attractive for local, low-cost, and privacy-sensitive deployment, but they…",
+      "url": "https://arxiv.org/abs/2611.18494",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "AI-Based Multi-View Echocardiographic Image Synthesis using Dynamic Shape Control",
+      "summary": "Publisher excerpt: Although automated methods have improved echocardiographic workflows, progress remains constrained by the need for large,…",
+      "url": "https://arxiv.org/abs/2611.18375",
+      "automated": true
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Research",
+      "publisher": "arXiv",
+      "title": "A systematic comparison of physics-informed neural networks and mechanistic models for epidemic modeling and forecasting",
+      "summary": "Publisher excerpt: Physics-Informed Neural Networks (PINNs) have recently been applied to…",
+      "url": "https://arxiv.org/abs/2611.18389",
+      "automated": true
+    },
+    {
+      "date": "2026-11-12",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "Supporting research on AI and children’s safety",
+      "summary": "Publisher excerpt: OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to…",
+      "url": "https://openai.com/index/children-first-declaration",
+      "automated": true
+    },
+    {
+      "date": "2026-11-12",
+      "type": "Models",
+      "publisher": "Google DeepMind",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "summary": "See the original publication for details.",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+      "automated": true
+    },
+    {
+      "date": "2026-11-12",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary": "Publisher excerpt: Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build,…",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "automated": true
+    },
+    {
+      "date": "2026-11-12",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "summary": "Publisher excerpt: With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion…",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "automated": true
+    },
+    {
+      "date": "2026-11-12",
+      "type": "News",
+      "publisher": "Google AI",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "summary": "Publisher excerpt: We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with…",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+      "automated": true
+    },
+    {
+      "date": "2026-11-12",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "summary": "Publisher excerpt: Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s…",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "automated": true
+    },
+    {
+      "date": "2026-11-12",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "summary": "Publisher excerpt: A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "automated": true
+    },
+    {
+      "date": "2026-11-11",
+      "type": "News",
+      "publisher": "Google AI",
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "summary": "Publisher excerpt: Tabletop is a new Google Labs experiment for group collaboration.…",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
+      "automated": true
+    },
+    {
+      "date": "2026-11-11",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "summary": "Publisher excerpt: JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails,…",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "automated": true
+    },
+    {
+      "date": "2026-11-11",
+      "type": "Models",
+      "publisher": "Google AI",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary": "Publisher excerpt: Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+      "automated": true
+    },
+    {
+      "date": "2026-11-11",
+      "type": "News",
+      "publisher": "Google AI",
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "summary": "Publisher excerpt: A new online archive of Esther Mahlangu’s life and art is now on Google Arts…",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
+      "automated": true
+    },
+    {
+      "date": "2026-11-11",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "summary": "Publisher excerpt: More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how…",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "automated": true
+    },
+    {
+      "date": "2026-11-11",
+      "type": "News",
+      "publisher": "Google DeepMind",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "summary": "Publisher excerpt: Predicting how DNA sequences and their variations impact specific human cell types and…",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+      "automated": true
+    },
+    {
+      "date": "2026-11-10",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "summary": "Publisher excerpt: New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations,…",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "automated": true
+    },
+    {
+      "date": "2026-11-10",
+      "type": "News",
+      "publisher": "Google AI",
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "summary": "Publisher excerpt: Google and Adobe are integrating creative and productivity tools. Edit PDFs…",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+      "automated": true
+    },
+    {
+      "date": "2026-11-10",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "summary": "Publisher excerpt: Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery,…",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "automated": true
+    },
+    {
+      "date": "2026-11-10",
+      "type": "News",
+      "publisher": "Google DeepMind",
+      "title": "Opening the datasets behind our AI weather models",
+      "summary": "Publisher excerpt: Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models",
+      "automated": true
+    },
+    {
+      "date": "2026-11-10",
+      "type": "Models",
+      "publisher": "OpenAI",
+      "title": "Introducing Businesses in ChatGPT",
+      "summary": "Publisher excerpt: Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "automated": true
+    },
+    {
+      "date": "2026-11-10",
+      "type": "News",
+      "publisher": "Google DeepMind",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "summary": "Publisher excerpt: AlphaProof Code agents wrote three million lines of proofs in Lean to verify…",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+      "automated": true
+    },
+    {
+      "date": "2026-11-10",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "Helping caregivers use AI in everyday life",
+      "summary": "Publisher excerpt: OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build…",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "automated": true
+    },
+    {
+      "date": "2026-11-10",
+      "type": "Models",
+      "publisher": "Google AI",
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "summary": "Publisher excerpt: Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how…",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+      "automated": true
+    },
+    {
+      "date": "2026-11-10",
+      "type": "Models",
+      "publisher": "Google AI",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "summary": "Publisher excerpt: Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you…",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+      "automated": true
+    },
+    {
+      "date": "2026-11-10",
+      "type": "Models",
+      "publisher": "Google DeepMind",
+      "title": "Gemini 4 Carbon is now available",
+      "summary": "See the original publication for details.",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+      "automated": true
+    },
+    {
+      "date": "2026-11-10",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "summary": "Publisher excerpt: Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "url": "https://openai.com/index/cogent-security",
+      "automated": true
+    },
+    {
+      "date": "2026-11-10",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "Closing the AI guidance gap in education",
+      "summary": "Publisher excerpt: New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent…",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "automated": true
+    },
     {
       "date": "2026-11-09",
       "type": "News",
@@ -30,6 +912,33 @@
       "title": "Kuken Industries searches 70 years of drawings in minutes",
       "summary": "Publisher excerpt: Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers…",
       "url": "https://openai.com/index/kuken",
+      "automated": true
+    },
+    {
+      "date": "2026-11-09",
+      "type": "Models",
+      "publisher": "Google DeepMind",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "summary": "Publisher excerpt: Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+      "automated": true
+    },
+    {
+      "date": "2026-11-09",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "summary": "Publisher excerpt: Learn how OpenAI’s Control Room tracks model workloads across…",
+      "url": "https://openai.com/index/control-room",
+      "automated": true
+    },
+    {
+      "date": "2026-11-09",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "summary": "Publisher excerpt: CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20…",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
       "automated": true
     },
     {
@@ -10428,6 +11337,15 @@
       "automated": true
     },
     {
+      "date": "2026-01-14",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "How OpenAI Uses Codex to Accelerate Engineering",
+      "summary": "Publisher excerpt: A detailed look at how OpenAI teams use Codex to understand code, refactor systems, improve performance, boost…",
+      "url": "https://openai.com/business/learn/how-openai-uses-codex",
+      "automated": true
+    },
+    {
       "date": "2026-01-13",
       "type": "News",
       "publisher": "OpenAI",
@@ -12300,6 +13218,15 @@
       "automated": true
     },
     {
+      "date": "2025-08-21",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "Blue J’s approach for scaling fast in complex, regulated domains",
+      "summary": "Publisher excerpt: Blue J scaled to three countries and more than 3,000 firms thanks to focus,…",
+      "url": "https://openai.com/business/customer-stories/blue-j",
+      "automated": true
+    },
+    {
       "date": "2025-08-20",
       "type": "News",
       "publisher": "OpenAI",
@@ -13137,6 +14064,15 @@
       "automated": true
     },
     {
+      "date": "2025-04-24",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "New in ChatGPT for Business: April 2025",
+      "summary": "Publisher excerpt: Watch hands-on demos of the lastest in ChatGPT for Business: o3, image generation, enhanced memory, and internal…",
+      "url": "https://openai.com/business/learn/new-in-chatgpt-for-business-april-updates-2025",
+      "automated": true
+    },
+    {
       "date": "2025-04-23",
       "type": "Models",
       "publisher": "OpenAI",
@@ -13449,6 +14385,15 @@
       "title": "New in ChatGPT for Business: March 2025",
       "summary": "Publisher excerpt: Join us as we share our latest releases and how ChatGPT is becoming more interactive, customized to…",
       "url": "https://openai.com/business/new-in-chatgpt-for-work-march-updates-2025",
+      "automated": true
+    },
+    {
+      "date": "2025-03-18",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "New in ChatGPT for Business: March 2025",
+      "summary": "Publisher excerpt: Join us as we share our latest releases and how ChatGPT is becoming more interactive, customized to…",
+      "url": "https://openai.com/business/learn/new-in-chatgpt-for-work-march-updates-2025",
       "automated": true
     },
     {
@@ -14523,6 +15468,15 @@
       "automated": true
     },
     {
+      "date": "2024-09-05",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "Using GPT-4 to deliver a new customer service standard",
+      "summary": "Publisher excerpt: Ada uses GPT-4 to deliver a new customer service standard",
+      "url": "https://openai.com/business/customer-stories/ada",
+      "automated": true
+    },
+    {
       "date": "2024-08-26",
       "type": "News",
       "publisher": "OpenAI",
@@ -14538,6 +15492,15 @@
       "title": "Fine-tuning GPT-4o webinar",
       "summary": "Publisher excerpt: Fine-Tuning GPT-4o Webinar",
       "url": "https://openai.com/business/fine-tuning-gpt-4o-webinar",
+      "automated": true
+    },
+    {
+      "date": "2024-08-26",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "Fine-tuning GPT-4o webinar",
+      "summary": "Publisher excerpt: Fine-Tuning GPT-4o Webinar",
+      "url": "https://openai.com/business/learn/fine-tuning-gpt-4o-webinar",
       "automated": true
     },
     {
@@ -14628,6 +15591,15 @@
       "title": "Enabling a data-driven workforce",
       "summary": "Publisher excerpt: In this video, we share practical examples of how employees can use ChatGPT Enterprise to efficiently analyze data and uncover…",
       "url": "https://openai.com/business/enabling-a-data-driven-workforce-webinar",
+      "automated": true
+    },
+    {
+      "date": "2024-08-08",
+      "type": "News",
+      "publisher": "OpenAI",
+      "title": "Enabling a data-driven workforce",
+      "summary": "Publisher excerpt: In this video, we share practical examples of how employees can use ChatGPT Enterprise to efficiently analyze data and uncover…",
+      "url": "https://openai.com/business/learn/enabling-a-data-driven-workforce-webinar",
       "automated": true
     },
     {
@@ -16719,5 +17691,5 @@
       "automated": true
     }
   ],
-  "lastSuccessfulRefresh": "2026-11-09"
+  "lastSuccessfulRefresh": "2026-11-16"
 }
